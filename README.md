@@ -25,7 +25,7 @@
 <br/>
 <br/>
 
-<h1 align="center"> Resolução de exercícios do Beecrowd. Nível: Iniciante. 🇧🇷 </h1>
+<h1 align="center"> Resolução de exercícios do Beecrowd. Nível: Iniciante.🇧🇷 </h1>
 
 <br/>
 
