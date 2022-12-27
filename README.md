@@ -53,7 +53,7 @@
 <br/>
 <br/>
 
-<h1 align="center"> Programming languages used in the project.</h1>
+<h1 align="center"> Technologies</h1>
 
 <br/>
 <div align="center">
